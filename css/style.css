@@ -1,0 +1,44 @@
+.liberent-navbar {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background: white; 
+}
+.liberent-navbar .navbar-nav>.active>a{
+	background :#3498db;
+	color: white; 
+}
+
+.liberent-navbar .liberent-cart{
+	padding-left: 10px;
+	border-left: 1px solid #969696;
+}
+.liberent-navbar .liberent-fprm-btn{
+	margin-right: 7px; 
+}
+
+.liberent-navbar .liberent-btn-car{
+	background : #3498db;
+	color: white;
+	border-radius: 3px;
+}
+.liberent-slider{
+	background: #e4e4e4;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: -20px;
+}
+.liberent-content{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.liberent-content.lib-item-img{
+	margin-bottom: 20px;
+}
+
+.liberent-footer{
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background: #202020;
+	color: white;
+}
